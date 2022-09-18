@@ -15,8 +15,9 @@ If bundler is not being used to manage dependencies, install the gem by executin
     $ gem install devcamp_view_tool_practice
 
 ## Usage
-
-TODO: Write usage instructions here
+```
+DevcampViewToolPractice::Renderer.copyright("Jordan Hudgens", "All rights reserved")
+```
 
 ## Development
 
